@@ -1,1 +1,2 @@
-# flowers-classification-cnn
+# Flowers Classification using CNN
+
